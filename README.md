@@ -26,6 +26,6 @@ The Redmi Note 11 NFC (codenamed "spesn") is a mid-range smartphone from Redmi, 
 | Front camera            | 13 MP, f/2.4, (wide), 1/3.1", 1.12µm                        |
 | Fingerprint             | Side-mounted (FPC)                                          |
 
-## Device picture ![Redmi Note 11](https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-11-global-1.jpg "Redmi Note 11")
+## Device picture ![Redmi Note 11](https://i.imgur.com/WfbCmGR.png "Redmi Note 11")
 
 Copyright (C) 2023 Paranoid Android.

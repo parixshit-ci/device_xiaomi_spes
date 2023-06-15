@@ -1,7 +1,7 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/evolution_spes.mk
+    $(LOCAL_DIR)/derp_spes.mk
 
 COMMON_LUNCH_CHOICES := \
-    evolution_spes-user \
-    evolution_spes-userdebug \
-    evolution_spes-eng
+    derp_spes-user \
+    derp_spes-userdebug \
+    derp_spes-eng
